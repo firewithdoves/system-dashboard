@@ -1,6 +1,6 @@
 # 💻 System Dashboard
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A live system dashboard built with Python, `psutil`, and `rich`.
 
